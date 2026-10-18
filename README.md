@@ -63,7 +63,8 @@ A slot‑based, piecewise linear fee mechanic:
 ---
 
 ## 📞 Contact  
-- **Telegram:** [RRR](https://t.me/microRustyme)
+
+fiv3fingers.dev@gmail.com
 
 ---
 
