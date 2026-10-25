@@ -64,7 +64,7 @@ A slot‑based, piecewise linear fee mechanic:
 
 ## 📞 Contact  
 
-fiv3fingers.dev@gmail.com
+[Telegram](https://t.me/fiv3dev)
 
 ---
 
